@@ -1,3 +1,3 @@
 # fastapi
 
-Just a basic implementation of a notes application using fastapi, no front end.
+Just a basic implementation of a tasks application using fastapi, no front end.
